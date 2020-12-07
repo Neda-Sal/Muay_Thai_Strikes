@@ -9,7 +9,7 @@ What is Muay Thai? Muay thai is a martial art that uses stand-up striking along 
 
 I began training Muay Thai in October 2019, and like many people, when the pandemic started I wasn’t able to go in to [Juniper](https://www.junipermuaythai.com/), the Muay Thai gym I was training at. 
 
-For those that wanted to continue training, practicing alone at home meant repeating the same learned combinations over and over again. It also meant no feedback on how practical or effective a new combo actually is. Hence my goal of classifying Muay Thai fights.
+For those that wanted to continue training, practicing alone at home meant repeating the same learned combinations over and over again. It also meant no available feedback on how practical or effective a new combo actually is. Hence my goal of classifying Muay Thai fights.
 
 
 ### Methodology
