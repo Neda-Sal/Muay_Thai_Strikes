@@ -45,7 +45,7 @@ My ultimate end goal is to train another model on that data that can recommend b
 
 ### Presentation
 
-Presentation Placeholder
+[Presentation Slides](https://github.com/Neda-Sal/Muay_Thai_Strikes/blob/main/Muay_Thai_Strikes_presentation.pdf)
 
 
 
