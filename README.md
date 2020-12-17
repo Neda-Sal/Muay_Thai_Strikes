@@ -1,5 +1,6 @@
 # Classify Muay Thai - Using Computer Vision
 
+[Video Presentation](https://www.youtube.com/watch?_ga=2.213304214.346638126.1607975440-557051545.1599106964&v=cV4ER1Hgdhs&feature=youtu.be&ab_channel=MetisDataScienceTraining)
 
 ### Objective
 My goal for this project was to create a model that could watch fights and classify every move.
